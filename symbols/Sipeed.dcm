@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Sipeed-M1
+D AI accelerated RISC-V microcontroller
+K AI Kendryte K210 RISC-V
+F http://dl.sipeed.com/MAIX/HDK/M1%26M1W/Specifications/Sipeed%20M1%20Specifications_EN%20V1.1.pdf
+$ENDCMP
+#
+#End Doc Library
